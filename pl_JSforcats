@@ -1,0 +1,29 @@
+JavaScript dla kotów
+
+Wprowadzenie dla początkujących programistów
+Tak łatwe, że mógłby je zrozumieć nawet Wasz człowiek
+
+JavaScript to język programowania, innymi słowy:  metoda poinstruowania komputera co ma zrobić. Podobnie jak ludzi kontroluje się poprzez syczenie i miauczenie, komputery kontroluje się instrukcjami napisanymi w języku programowania. Wszystkie przeglądarki internetowe rozumieją JavaSript,  dzięki czemu można zmusić  strony internetowe do robienia najdzikszych rzeczy!
+W zamyśle JavaScript miał zwiększyć interaktywność stron. Obecnie jej  zastosowanie mocno  wykracza poza przeglądarki -  zarządza działaniem serwerów Internetoowych, telefów, a nawet  w robotów! Ta strona nauczy cię podstaw  i mgnieniu oka staniesz się samodzielny 
+* W zasadzie więcej niż jednym mgnieniu. Prawdopodobnie zajmie to godzinę lub dwie. Ponadto, ponieważ jesteś kotem, raczej nie będziesz się nigdzie spieszył mogąc wylegiwać się w słońcu.
+Spis treści
+
+Konsola
+Ciągi znaków
+Wartości i zmienne
+przy użyciu funkcji
+Wbudowane funkcje JS
+Pobierz nowe funkcje JS
+Pisanie nowych funkcji
+pętle
+macierze
+Przedmioty
+callbacki
+Zalecana literatura
+Nie bądź Scaredy-cat
+
+kot
+
+Zawsze będzie lądował na nogach - Nawet Przy programowaniu! W przeciwieństwie łapa nad szklanką wody na swoim laptopie, nic w tutoriali pracy magisterskiej może uszkodzić komputer w jakikolwiek sposób, jest nawet jeśli błędnie lub kliknij polecenie niewłaściwy przycisk. Jak koty, programiści popełniają błędy cały czas: rzeczy ortograficzny, cytaty zapominając wsporniki złota, a będąc zapomina o tym, jak podstawowe funkcje (i przędzy, lasery) pracy. Programiści bardziej troszczą się o co działa Ostatecznie Zamiast próbować próbuje zrobić to działa za pierwszym razem. Najlepszym sposobem, aby nauczyć się od popełniania błędów!
+
+Więc nie bądź Scaredy-cat! Bezwzględna najgorsze, co się stanie, to jest to, że może, trzeba odświeżyć stronę w przeglądarce, jeśli utkniesz. Nie martw się jednak, nastąpi to bardzo rzadko.
